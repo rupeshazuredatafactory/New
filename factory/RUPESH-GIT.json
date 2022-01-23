@@ -1,0 +1,9 @@
+{
+	"name": "RUPESH-GIT",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "941f74ed-cd99-4539-93ca-409cdb2f29e9",
+		"tenantId": "cce26e4d-2987-4c53-be76-a81ec0ba3617"
+	}
+}
